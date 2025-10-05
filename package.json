@@ -1,0 +1,17 @@
+{
+  "name": "com.qbnikko.qbgamelib_сharacteristics",
+  "version": "0.0.1",
+  "displayName": "Реализация характеристик персонажей\n",
+  "description": "Реализация характеристик персонажей\n",
+  "unity": "6000.2",
+  "documentationUrl": "https://github.com/qbNikko/QbGameLib_Characteristics#m/",
+  "changelogUrl": "https://github.com/qbNikko/QbGameLib_Characteristics/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/qbNikko/QbGameLib_Characteristics/blob/main/LICENSE.md",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Николай Жульков",
+    "email": "qbNikko@yandex.ru",
+    "url": "https://github.com/qbNikko"
+  }
+}

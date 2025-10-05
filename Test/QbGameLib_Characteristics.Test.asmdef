@@ -1,0 +1,7 @@
+﻿{
+  "name": "QbGameLib_Characteristics.Test",
+  "rootNamespace": "QbGameLib_Characteristics",
+  "references": [
+    "QbGameLib_Characteristics"
+  ]
+}

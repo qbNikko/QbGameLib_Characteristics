@@ -8,6 +8,7 @@
   "changelogUrl": "https://github.com/qbNikko/QbGameLib_Characteristics/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/qbNikko/QbGameLib_Characteristics/blob/main/LICENSE.md",
   "dependencies": {
+    "QbGameLib_Utils": "https://github.com/qbNikko/QbGameLib_Utils.git"
   },
   "author": {
     "name": "Николай Жульков",

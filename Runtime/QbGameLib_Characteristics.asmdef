@@ -1,0 +1,5 @@
+﻿{
+  "name": "QbGameLib_Characteristics",
+  "rootNamespace": "QbGameLib_Characteristics",
+  "references":[ "GUID:b32b5b38b493423d9d9b4c8515309aab" ]
+}

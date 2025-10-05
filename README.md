@@ -1,2 +1,2 @@
-# UnityGameLib
+# QbGameLib_Characteristics
 Реализация характеристик персонажей
